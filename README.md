@@ -16,7 +16,7 @@ Solução de automação desenvolvida para otimizar a rotina da Coordenação de
 
 ## O que a Solução Faz
 * **Limpeza de Dados:** Trata automaticamente inconsistências de datas mistas e converte valores monetários em texto para formatos numéricos flutuantes.
-* **Filtro de Inadimplência:** Considera estritamente contratos com status **ATIVO**, parcelas em status **ABERTA** e com data de vencimento anterior à data de análise do relatório[cite: 4].
+* **Filtro de Inadimplência:** Considera estritamente contratos com status **ATIVO**, parcelas em status **ABERTA** e com data de vencimento anterior à data de análise do relatório.
 * **Interatividade (UX):** No Dashboard HTML gerado, a Renata pode:
   * Clicar diretamente no número do telemóvel para abrir uma conversa no **WhatsApp** com o cliente já com mensagem pré-formatada.
   * Clicar no botão **"Copiar Mensagem"** para copiar instantaneamente os dados formatados (empreendimento, nome, telemóvel, contrato e valor devido) para a área de transferência.
